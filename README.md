@@ -18,3 +18,9 @@ and I am here to show it.
 This will be one of my first projects with bootstrap 4. 
 I feel this would be a good project to work my way into bootstrap 4 into my tool belt.
 <hr>
+
+### release 0.0.1
+initial release 0.0.1 of Michael Williams resume complete 2017-10-17
+this will be an on-going project from now on.
+<hr>
+

@@ -11,3 +11,10 @@ As, I start to hunt for a job I will start to build this, a Portfolio page, and 
 After 4 years of college and a year off I felt I have gained enough experience of learning to be worthy of being accepted into a company...finally.
 
 and I am here to show it.
+
+### comments
+
+2017-10-16-10:09<br>
+This will be one of my first projects with bootstrap 4. 
+I feel this would be a good project to work my way into bootstrap 4 into my tool belt.
+<hr>

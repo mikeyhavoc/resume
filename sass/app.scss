@@ -1,0 +1,26 @@
+* { box-sizing: border-box; }
+*::after, *::before { box-sizing: border-box; }
+
+$font-stack-main: Helvetica, Arial, sans-serif;
+
+
+hr {
+    display: block;
+    height: 1px;
+    border: 0;
+    border-top: 1px solid #ccc;
+    margin: 1em auto;
+    padding: 0;
+    width: 80%;
+
+    background: blue;
+}
+
+.education {
+    margin: 0.5em 0.5em;
+    border: 1px solid lightblue;
+    border-radius: 5%;
+    padding: 0.5em;
+}
+
+.title {  font-family: $font-stack-main; text-transform: capitalize; }
